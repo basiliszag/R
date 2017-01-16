@@ -1,0 +1,7 @@
+con <- socketConnection(host="88.99.38.191", port = 1337, blocking=T,
+                          server=FALSE, open="r+")
+while(TRUE){
+    server_resp <- readLines(con, 1)
+    print(server_resp)
+    
+  }
