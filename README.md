@@ -1,4 +1,4 @@
-# R
+# R and redis
 Connect to Socket and store data in Redos
 
 Using the script above, one can connect to a socket and parse a data stream.
