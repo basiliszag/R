@@ -1,5 +1,5 @@
 # R and redis
-Connect to Socket and store data in Redos
+Connect to Socket and store data in Redis
 
 Using the script above, one can connect to a socket and parse a data stream.
 Then with the use of rredis package, data stream can be stored in redis.
